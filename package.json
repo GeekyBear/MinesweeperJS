@@ -1,0 +1,19 @@
+{
+  "name": "minesweeperjs",
+  "version": "1.0.0",
+  "description": "A minesweeper made in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekyBear/MinesweeperJS.git"
+  },
+  "author": "Exe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekyBear/MinesweeperJS/issues"
+  },
+  "homepage": "https://github.com/GeekyBear/MinesweeperJS#readme"
+}
