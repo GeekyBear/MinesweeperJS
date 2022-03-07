@@ -1,0 +1,21 @@
+.grid{
+	height: 420px;
+	width: 420px;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: grey;
+}
+
+.grid div {
+	height: 40px;
+	width: 40px;
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	color: white;
+}
+
+.checked{
+	background-color: rebeccapurple;
+}
